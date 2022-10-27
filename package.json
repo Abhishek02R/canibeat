@@ -1,0 +1,24 @@
+{
+  "name": "canibeat-master",
+  "version": "1.0.0",
+  "description": "car rental website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek02R/canibeat.git"
+  },
+  "author": "VA Websites",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek02R/canibeat/issues"
+  },
+  "homepage": "https://github.com/Abhishek02R/canibeat#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
