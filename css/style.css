@@ -432,6 +432,30 @@ button {
      flex-wrap: wrap;
 }
 
+/*--Section Header --*/
+
+.section-header {
+     text-align: center;
+}
+.section-header h2 {
+     font-size: 35px;
+}
+.section-subtitle {
+     margin-bottom: 0;
+     padding-top: 0;
+     color: #000;
+     font-size: 16px;
+}
+.bold {
+     font-weight: 900;
+}
+
+
+.services {
+     color: green;
+}
+
+
 
 /** banner section **/
 
